@@ -60,9 +60,7 @@ Após configuração, o formulário enviará e-mails com sucesso e resetará aut
 
 ## Link para o Site Publicado
 O site está hospedado no GitHub Pages e pode ser acessado em:  
-https://github.com/FelipeVieiraRodrigues/Portifolio-ATV-AV1.git  
-
-*(Ajuste o URL se o nome do repositório for diferente. Certifique-se de que as imagens estejam no repositório para carregar corretamente.)*
+https://felipevieirarodrigues.github.io/Portifolio-AV1  
 
 ## Como Executar Localmente
 1. **Clone ou Baixe o Repositório**:
